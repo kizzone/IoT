@@ -3,13 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/resources/HelloWorldResource.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/IotPjServer.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/UpdateTask.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/californium-core/org/eclipse/californium/core/CoapClient.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/client/IotPjClient.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/californium-core/org/eclipse/californium/core/server/ServerInterface.java</file>
-            <file>file:/home/domenico/Workspace/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/resources/ObservableResources.java</file>
+            <file>file:/home/domenico/git/IoT/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/resources/HelloWorldResource.java</file>
+            <file>file:/home/domenico/git/IoT/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/resources/ObservableResources.java</file>
+            <file>file:/home/domenico/git/IoT/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/UpdateTask.java</file>
+            <file>file:/home/domenico/git/IoT/IoT2018_Project/src/it/unipr/iotlab/iot2018/cf/server/IotPjServer.java</file>
         </group>
     </open-files>
 </project-private>
