@@ -5,8 +5,8 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>IoT2018_Project</name>
             <source-roots>
-                <root id="src.californium-core2.dir"/>
-                <root id="src.src.dir"/>
+                <root id="src.dir" name="src"/>
+                <root id="californium-core.dir" name="californium-core"/>
             </source-roots>
             <test-roots/>
         </data>
