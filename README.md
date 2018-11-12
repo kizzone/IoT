@@ -1,2 +1,2 @@
 # IoT
-IoT project
+University IoT project
